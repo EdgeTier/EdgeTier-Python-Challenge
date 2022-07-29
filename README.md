@@ -65,7 +65,7 @@ Please look at the route `/app/routes/chats/post_message.py` and try to fix as m
 
 # Submission
 
-Please complete the challenge and either send us a link to a private repository on BitBucket/GitHub etc. Or zip and email your solution.
+Complete the challenge and submit a link to a private repository on BitBucket/GitHub etc. Please try to have clear commits for the changes that you have made for Task 1 and Task 2 for ease of review.
 
 # Data
 
